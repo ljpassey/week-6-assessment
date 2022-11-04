@@ -1,0 +1,5 @@
+Test plan - https://trello.com/c/2mcTme6J/1-test-plan
+
+Bug Report win counter - https://trello.com/c/ZE5X7GEd/2-bug-report-win-counter
+
+Test Case Win/loss counter - https://trello.com/c/iVuDEvCo/3-test-case-win-loss-counter
